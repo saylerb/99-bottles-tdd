@@ -1,5 +1,6 @@
 require 'minitest'
 require 'minitest/autorun'
+require './bottles'
 
 class BottlesTest < Minitest::Test
   def test_the_first_verse
